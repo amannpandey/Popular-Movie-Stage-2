@@ -14,3 +14,4 @@ In this project, we continue building the movies app in [stage 1](https://github
 
 ## Data Source
 All movie data used in this project are obatined from [themoviedb.org API](https://www.themoviedb.org/documentation/api)
+
